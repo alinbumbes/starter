@@ -1,4 +1,23 @@
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# IDE - VSCode
+.vscode/*
+.vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# # SASS maps 
+# main.css.map
